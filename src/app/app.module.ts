@@ -13,12 +13,20 @@ import { routes } from './app.routes';
 
 
 // Must export the config
+// export const firebaseConfig = {
+//   apiKey: 'AIzaSyAaTLLTBfT8-tlCXOKlp4LrwQzhVWjbM1Q',
+//   authDomain: 'angular-pre.firebaseapp.com',
+//   databaseURL: 'https://angular-pre.firebaseio.com',
+//   storageBucket: 'angular-pre.appspot.com',
+//   messagingSenderId: '796422970338'
+// };
+
 export const firebaseConfig = {
-  apiKey: 'AIzaSyAaTLLTBfT8-tlCXOKlp4LrwQzhVWjbM1Q',
-  authDomain: 'angular-pre.firebaseapp.com',
-  databaseURL: 'https://angular-pre.firebaseio.com',
-  storageBucket: 'angular-pre.appspot.com',
-  messagingSenderId: '796422970338'
+  apiKey: 'AIzaSyA3fWBrxprX9G-V5FL9mKh8I9byEp2L5Cg',
+  authDomain: 'vraidrop.firebaseapp.com',
+  databaseURL: 'https://vraidrop.firebaseio.com',
+  storageBucket: 'vraidrop.appspot.com',
+  messagingSenderId: '506412316286'
 };
 
 @NgModule({
